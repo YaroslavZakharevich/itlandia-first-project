@@ -1,0 +1,6 @@
+C:\Users\User1\source\repos\futv\futv\bin\Debug\futv.exe.config
+C:\Users\User1\source\repos\futv\futv\bin\Debug\futv.exe
+C:\Users\User1\source\repos\futv\futv\bin\Debug\futv.pdb
+C:\Users\User1\source\repos\futv\futv\obj\Debug\futv.csproj.CoreCompileInputs.cache
+C:\Users\User1\source\repos\futv\futv\obj\Debug\futv.exe
+C:\Users\User1\source\repos\futv\futv\obj\Debug\futv.pdb
